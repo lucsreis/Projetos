@@ -41,13 +41,11 @@ private Integer codigo;
         if (this == o) return true;
         if (!(o instanceof Aluno)) return false;
         Aluno aluno = (Aluno) o;
-        return Objects.equals(getNome(), aluno.getNome()) &&
-                Objects.equals(getSobrenome(), aluno.getSobrenome()) &&
-                getCodigo().equals(aluno.getCodigo());
+        return getCodigo().equals(aluno.getCodigo());
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(getNome(), getSobrenome(), getCodigo());
+        return Objects.hash( getCodigo());
     }
 }

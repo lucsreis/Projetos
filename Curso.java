@@ -5,18 +5,24 @@ public class Curso extends DigitalHouseManager {
 
     private String nomeCurso;
     private String codigoCurso;
-    private Integer quantidadeDeAlunos;
+    private Integer quantidadeMaxDeAlunos;
+    private ProfessorTitular professorTitular;
+    private ProfessorAdjunto professorAdjunto;
 
-    List<Aluno> listaAlunos = new ArrayList<>();
-
+    private List<Aluno> listaAlunos = new ArrayList<>();
 
 
 
 
 
     public boolean adicionarUmAluno (Aluno umAluno) {
-        if (listaAlunos.size() <= quantidadeDeAlunos );
-        return true;
+        if (listaAlunos.size() < quantidadeMaxDeAlunos){
+            listaAlunos.add(umAluno);
+            return true;
+        } else {
+            return false;
+        }
+
 
     }
 
@@ -26,12 +32,12 @@ public class Curso extends DigitalHouseManager {
 
     }
 
-    public Integer getQuantidadeDeAlunos() {
-        return quantidadeDeAlunos;
+    public Integer getQuantidadeMaxDeAlunos() {
+        return quantidadeMaxDeAlunos;
     }
 
-    public void setQuantidadeDeAlunos(Integer quantidadeDeAlunos) {
-        this.quantidadeDeAlunos = quantidadeDeAlunos;
+    public void setQuantidadeMaxDeAlunos(Integer quantidadeMaxDeAlunos) {
+        this.quantidadeMaxDeAlunos = quantidadeMaxDeAlunos;
     }
 
     public String getNomeCurso() {
@@ -50,9 +56,25 @@ public class Curso extends DigitalHouseManager {
         this.codigoCurso = codigoCurso;
     }
 
-    public Curso(String nomeCurso, String codigoCurso, Integer quantidadeDeAlunos) {
+    public Curso(String nomeCurso, String codigoCurso, Integer quantidadeMaxDeAlunos) {
         this.nomeCurso = nomeCurso;
         this.codigoCurso = codigoCurso;
-        this.quantidadeDeAlunos = quantidadeDeAlunos;
+        this.quantidadeMaxDeAlunos = quantidadeMaxDeAlunos;
+    }
+
+    public ProfessorTitular getProfessorTitular() {
+        return professorTitular;
+    }
+
+    public void setProfessorTitular(ProfessorTitular professorTitular) {
+        this.professorTitular = professorTitular;
+    }
+
+    public ProfessorAdjunto getProfessorAdjunto() {
+        return professorAdjunto;
+    }
+
+    public void setProfessorAdjunto(ProfessorAdjunto professorAdjunto) {
+        this.professorAdjunto = professorAdjunto;
     }
 }

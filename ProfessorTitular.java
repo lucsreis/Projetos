@@ -1,6 +1,6 @@
 public class ProfessorTitular extends Professor{
 
-    public String especialidade;
+    private String especialidade;
 
     public String getEspecialidade() {
         return especialidade;

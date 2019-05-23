@@ -1,6 +1,6 @@
 public class ProfessorAdjunto extends Professor{
 
-    public Integer qtHorasMonitoria;
+    private Integer qtHorasMonitoria;
 
 
 

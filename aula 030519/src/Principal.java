@@ -2,10 +2,10 @@ public class Principal {
 
     public static void main(String[] args) {
 
-Funcionario funcionario1 = new Funcionario();
-funcionario1.setNome("Joao");
-funcionario1.setSalario(1000F);
-funcionario1.baterPonto();
+        Funcionario funcionario1 = new Funcionario();
+        funcionario1.setNome("Joao");
+        funcionario1.setSalario(1000F);
+        funcionario1.baterPonto();
 
 
         System.out.println(funcionario1.getNome());

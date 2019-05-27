@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe5cff88-1028-4f60-8f59-9a24ed038105" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/ApelidoAmigos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/out/production/ApelidoAmigos/Amigos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/out/production/ApelidoAmigos/Exercicio1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/src/Amigos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/src/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/ExemploProjeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/out/production/ExemploProjeto/Carro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/out/production/ExemploProjeto/TesteCarro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/src/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/EqualsCocaCola.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/out/production/EqualsCocaCola/ClasseTeste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/out/production/EqualsCocaCola/Coca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/src/Coca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/out/production/Exception/TesteException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/TesteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/ExemploEqualsHashCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/out/production/ExemploEqualsHashCode/ClubeFutebol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/out/production/ExemploEqualsHashCode/TesteFutebol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/src/ClubeFutebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/src/TesteFutebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/Exercicio2TryCatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/out/production/Exercicio2TryCatch/Animais.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/src/Animais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/ExercicioAlunoEquals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/out/production/ExercicioAlunoEquals/Aluno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/out/production/ExercicioAlunoEquals/ClasseTeste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/ExercicioCalculoMatematico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/out/production/ExercicioCalculoMatematico/CalculoMatematico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/out/production/ExercicioCalculoMatematico/TesteCalculo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/src/CalculoMatematico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/src/TesteCalculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/ExercicioDicionario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/out/production/ExercicioDicionario/Dicionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/out/production/ExercicioDicionario/TesteDicionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/src/Dicionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/src/TesteDicionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/ExercicioEntregavel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/src/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/src/DigitalHouseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/src/Matricula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/src/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/src/ProfessorAdjunto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEntregavel/src/ProfessorTitular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/ExercicioEquals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/out/production/ExercicioEquals/ClasseTeste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/out/production/ExercicioEquals/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/ExercicioTryCatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/out/production/ExercicioTryCatch/Animais.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/out/production/ExercicioTryCatch/Teste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/src/Animais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/src/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntegradorLivraria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntegradorLivraria/Catalogo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntegradorLivraria/Livros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntegradorLivraria/META-INF/IntegradorLivraria.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntegradorLivraria/TesteLivro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Catalogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Livros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TesteLivro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projetos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/Banco Santander.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/out/production/Banco Santander/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/out/production/Banco Santander/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/out/production/Banco Santander/ContaCorrente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/out/production/Banco Santander/ContaPoupanca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/out/production/Banco Santander/Executavel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/Executavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/ExemploProduto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/out/production/ExemploProduto/Produto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/out/production/ExemploProduto/TesteArrayProduto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/src/TesteArrayProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/Exercicio Interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/src/Saudavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/src/Testesaude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/Exercicio4Estoques.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/out/production/Exercicio4Estoques/Estoque.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/out/production/Exercicio4Estoques/TesteEstoque.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/src/Estoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/src/TesteEstoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/ExercicioImpressora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/out/production/ExercicioImpressora/Impressora.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Contrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Foto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Imprimivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/TesteImpressao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/Sistema Cadastro Pessoas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/CadastroPessoas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/Funcionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/Gerente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/TestaCadastro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/CadastroPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/TestaCadastro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula 030519/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula 030519/src/Principal.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Livros.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#674#675#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Catalogo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TesteLivro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Estoque.java" />
+        <option value="$PROJECT_DIR$/src/Livros.java" />
+        <option value="$PROJECT_DIR$/src/Catalogo.java" />
+        <option value="$PROJECT_DIR$/src/TesteLivro.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IntegradorLivraria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntegradorLivraria" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntegradorLivraria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntegradorLivraria" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TesteLivro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteLivro" />
+      <module name="IntegradorLivraria" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteLivro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe5cff88-1028-4f60-8f59-9a24ed038105" name="Default Changelist" comment="" />
+      <created>1558025745848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558025745848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="5" y="9" width="1260" height="680" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959871" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9520767" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../AulaListas/src/TesteCarro.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Estoque.java" />
+    <entry file="file://$PROJECT_DIR$/src/Livros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TesteLivro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Catalogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IntegradorLivraria</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

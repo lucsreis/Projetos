@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1b2f403-303c-47cc-91b0-ce42fc89bc49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ApelidoAmigos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ApelidoAmigos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ApelidoAmigos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ApelidoAmigos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ApelidoAmigos/ApelidoAmigos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ApelidoAmigos/src/Amigos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ApelidoAmigos/src/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AulaListas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AulaListas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AulaListas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AulaListas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AulaListas/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AulaListas/src/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EqualsCocaCola/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EqualsCocaCola/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EqualsCocaCola/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EqualsCocaCola/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EqualsCocaCola/EqualsCocaCola.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EqualsCocaCola/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EqualsCocaCola/src/Coca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exception/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exception/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exception/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exception/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exception/Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exception/src/TesteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExemploEqualsHashCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExemploEqualsHashCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExemploEqualsHashCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExemploEqualsHashCode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExemploEqualsHashCode/ExemploEqualsHashCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExemploEqualsHashCode/src/ClubeFutebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExemploEqualsHashCode/src/TesteFutebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicio2TryCatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicio2TryCatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicio2TryCatch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicio2TryCatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicio2TryCatch/Exercicio2TryCatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicio2TryCatch/src/Animais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioAlunoEquals/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioAlunoEquals/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioCalculoMatematico/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioCalculoMatematico/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioCalculoMatematico/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioCalculoMatematico/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioCalculoMatematico/ExercicioCalculoMatematico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioCalculoMatematico/src/CalculoMatematico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioCalculoMatematico/src/TesteCalculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioDicionario/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioDicionario/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioDicionario/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioDicionario/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioDicionario/ExercicioDicionario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioDicionario/src/Dicionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioDicionario/src/TesteDicionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioEquals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioEquals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioEquals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioEquals/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioEquals/ExercicioEquals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioEquals/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioEquals/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioTryCatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioTryCatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioTryCatch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioTryCatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioTryCatch/ExercicioTryCatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioTryCatch/src/Animais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercicioTryCatch/src/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntegradorLivraria/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntegradorLivraria/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntegradorLivraria/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntegradorLivraria/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntegradorLivraria/IntegradorLivraria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntegradorLivraria/src/Estoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntegradorLivraria/src/Livros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntegradorLivraria/src/TesteLivro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco Santander/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco Santander/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco Santander/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco Santander/src/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco Santander/src/Executavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploProduto/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploProduto/src/TesteArrayProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio Interfaces/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio Interfaces/src/Saudavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio Interfaces/src/Testesaude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio4Estoques/src/Estoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio4Estoques/src/TesteEstoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Foto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imprimivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TesteImpressao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema Cadastro Pessoas/src/CadastroPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema Cadastro Pessoas/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema Cadastro Pessoas/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema Cadastro Pessoas/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema Cadastro Pessoas/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema Cadastro Pessoas/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema Cadastro Pessoas/src/TestaCadastro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Principal.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Contrato.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Foto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Impressora.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Documento.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Imprimivel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TesteImpressao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Contrato.java" />
+        <option value="$PROJECT_DIR$/src/Documento.java" />
+        <option value="$PROJECT_DIR$/src/TesteImpressao.java" />
+        <option value="$PROJECT_DIR$/src/Impressora.java" />
+        <option value="$PROJECT_DIR$/src/Foto.java" />
+        <option value="$PROJECT_DIR$/src/Imprimivel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TesteImpressao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteImpressao" />
+      <module name="ExercicioImpressora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteImpressao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1b2f403-303c-47cc-91b0-ce42fc89bc49" name="Default Changelist" comment="" />
+      <created>1557150746405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557150746405</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24980484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24980484" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Contrato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Foto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TesteImpressao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Imprimivel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Documento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Impressora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

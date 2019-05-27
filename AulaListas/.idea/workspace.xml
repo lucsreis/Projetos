@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c829abe2-7555-4936-aad4-862848b6dd72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/ApelidoAmigos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/src/Amigos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/src/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/EqualsCocaCola.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/src/Coca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/TesteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/ExemploEqualsHashCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/src/ClubeFutebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/src/TesteFutebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/Exercicio2TryCatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/src/Animais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/ExercicioCalculoMatematico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/src/CalculoMatematico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/src/TesteCalculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/ExercicioDicionario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/src/Dicionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/src/TesteDicionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/ExercicioEquals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/ExercicioTryCatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/src/Animais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/src/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/Executavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/src/TesteArrayProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/src/Saudavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/src/Testesaude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/src/Estoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/src/TesteEstoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Contrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Foto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Imprimivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/TesteImpressao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/CadastroPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/TestaCadastro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula 030519/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula 030519/src/Principal.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Carro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TesteCarro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="83" selection-start-line="83" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Carro.java" />
+        <option value="$PROJECT_DIR$/src/TesteCarro.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExemploProjeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AulaListas" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TesteCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteCarro" />
+      <module name="ExemploProjeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteCarro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c829abe2-7555-4936-aad4-862848b6dd72" name="Default Changelist" comment="" />
+      <created>1557490086459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557490086459</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6086262" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/TesteCarro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Carro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

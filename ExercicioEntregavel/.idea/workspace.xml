@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ec78252-c44c-4afd-96b4-47b8f4160e26" name="Default Changelist" comment="atualizando">
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/ApelidoAmigos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/out/production/ApelidoAmigos/Amigos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/out/production/ApelidoAmigos/Exercicio1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/src/Amigos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApelidoAmigos/src/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/ExemploProjeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/out/production/ExemploProjeto/Carro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/out/production/ExemploProjeto/TesteCarro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AulaListas/src/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/EqualsCocaCola.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/out/production/EqualsCocaCola/ClasseTeste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/out/production/EqualsCocaCola/Coca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualsCocaCola/src/Coca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/out/production/Exception/TesteException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/TesteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/ExemploEqualsHashCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/out/production/ExemploEqualsHashCode/ClubeFutebol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/out/production/ExemploEqualsHashCode/TesteFutebol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/src/ClubeFutebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploEqualsHashCode/src/TesteFutebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/Exercicio2TryCatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/out/production/Exercicio2TryCatch/Animais.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio2TryCatch/src/Animais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/ExercicioAlunoEquals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/out/production/ExercicioAlunoEquals/Aluno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/out/production/ExercicioAlunoEquals/ClasseTeste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioAlunoEquals/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/ExercicioCalculoMatematico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/out/production/ExercicioCalculoMatematico/CalculoMatematico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/out/production/ExercicioCalculoMatematico/TesteCalculo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/src/CalculoMatematico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioCalculoMatematico/src/TesteCalculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/ExercicioDicionario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/out/production/ExercicioDicionario/Dicionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/out/production/ExercicioDicionario/TesteDicionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/src/Dicionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioDicionario/src/TesteDicionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicioEntregavel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matricula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProfessorAdjunto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProfessorTitular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/ExercicioEquals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/out/production/ExercicioEquals/ClasseTeste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/out/production/ExercicioEquals/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/src/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioEquals/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/ExercicioTryCatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/out/production/ExercicioTryCatch/Animais.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/out/production/ExercicioTryCatch/Teste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/src/Animais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioTryCatch/src/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/IntegradorLivraria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/out/production/IntegradorLivraria/Catalogo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/out/production/IntegradorLivraria/Livros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/out/production/IntegradorLivraria/META-INF/IntegradorLivraria.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/out/production/IntegradorLivraria/TesteLivro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/src/Catalogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/src/Livros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradorLivraria/src/TesteLivro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projetos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/Banco Santander.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/out/production/Banco Santander/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/out/production/Banco Santander/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/out/production/Banco Santander/ContaCorrente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/out/production/Banco Santander/ContaPoupanca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/out/production/Banco Santander/Executavel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Banco Santander/src/Executavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/ExemploProduto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/out/production/ExemploProduto/Produto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/out/production/ExemploProduto/TesteArrayProduto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExemploProduto/src/TesteArrayProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/Exercicio Interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/src/Saudavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio Interfaces/src/Testesaude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/Exercicio4Estoques.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/out/production/Exercicio4Estoques/Estoque.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/out/production/Exercicio4Estoques/TesteEstoque.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/src/Estoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Exercicio4Estoques/src/TesteEstoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/ExercicioImpressora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/out/production/ExercicioImpressora/Impressora.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Contrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Foto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/Imprimivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/ExercicioImpressora/src/TesteImpressao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/Sistema Cadastro Pessoas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/CadastroPessoas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/Funcionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/Gerente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/out/production/Sistema Cadastro Pessoas/TestaCadastro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/CadastroPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/Sistema Cadastro Pessoas/src/TestaCadastro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula 030519/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula 030519/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula 030519/src/Principal.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Curso.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Matricula.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DigitalHouseManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1479">
+              <caret line="89" column="25" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Aluno.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#991#992#0" expanded="true" />
+                <element signature="e#1040#1041#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Professor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+              <folding>
+                <element signature="e#1164#1165#0" expanded="true" />
+                <element signature="e#1216#1217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProfessorTitular.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProfessorAdjunto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ClasseTeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Professor.java" />
+        <option value="$PROJECT_DIR$/src/ProfessorAdjunto.java" />
+        <option value="$PROJECT_DIR$/src/ProfessorTitular.java" />
+        <option value="$PROJECT_DIR$/src/Curso.java" />
+        <option value="$PROJECT_DIR$/src/Matricula.java" />
+        <option value="$PROJECT_DIR$/src/Aluno.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouseManager.java" />
+        <option value="$PROJECT_DIR$/src/ClasseTeste.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ClasseTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasseTeste" />
+      <module name="ExercicioEntregavel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClasseTeste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ec78252-c44c-4afd-96b4-47b8f4160e26" name="Default Changelist" comment="" />
+      <created>1558354122010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558354122010</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24980484" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3290735" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.798722" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32943013" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atualizando" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ExercicioEntregavel$ClasseTeste.ic" NAME="ClasseTeste Coverage Results" MODIFIED="1558712022533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14040.4077/Principal.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14040.1656/Pessoa.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14040.18945/Pessoa.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14040.19103/Principal.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11816.40069/Dono.java" />
+    <entry file="file://$PROJECT_DIR$/../../Projetos InteliJ Java/Exercicio Herança/Cachorro.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Projetos InteliJ Java/Exercicio Herança/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Projetos InteliJ Java/Exercicio Herança/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Projetos InteliJ Java/Aula 7/Aviao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Projetos InteliJ Java/Aula 7/Voador.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Projetos InteliJ Java/Aula 7/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Projetos InteliJ Java/Aula 9/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1158" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Projetos InteliJ Java/Aula 9/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Curso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matricula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouseManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="89" column="25" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Professor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <folding>
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProfessorTitular.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProfessorAdjunto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClasseTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
